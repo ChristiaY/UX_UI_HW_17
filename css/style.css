@@ -1,0 +1,39 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo {
+    width: 23%;
+    padding: 1%;
+}
+
+.nav {
+width: 73%;
+padding: 1%;
+}
+
+.logo {
+    text-align: center;
+}
+
+/* align list? Not sure how */
+.ul
+{
+    width: 50%;
+    margin-left: auto;
+}
+
+.heroImg {
+height: 600px;
+padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.footer {
+ background:#373738;   
+}
