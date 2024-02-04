@@ -1,39 +1,46 @@
+nav {
+    width: 100%;
+    background: #373738;
+}
+
+.logo {
+    width: 80px;
+    padding: 1%;
+    vertical-align: middle;
+}
+
 .inline-block {
     display: inline-block;
-    vertical-align: top;
+    vertical-align: middle;
 }
 
-.logo {
-    width: 23%;
-    padding: 1%;
+li {
+    display: inline;
+    padding: 8px;
+    background-color: #dddddd;
 }
 
-.nav {
-width: 73%;
-padding: 1%;
-}
-
-.logo {
-    text-align: center;
-}
-
-/* align list? Not sure how */
-.ul
-{
-    width: 50%;
-    margin-left: auto;
-}
-
-.heroImg {
-height: 600px;
-padding: 25px;
+.me {
+    width: 100px;
 }
 
 .content {
     width: 500px;
-    margin: 0 auto;
+    margin-right: auto;
+    padding: 25px;
 }
 
-.footer {
- background:#373738;   
+p {
+margin: 1%;
+}
+
+button {
+    margin: 1%;
+}
+
+footer {
+    width: 100%;
+    display: inline-block;
+    background: #373738;
+    height: 80px;
 }
